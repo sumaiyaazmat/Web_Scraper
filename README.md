@@ -22,7 +22,7 @@ Make sure you have **Python 3.x** installed on your system. You can check this b
 
 ### Step 2: Install Dependencies
 Clone or download this repository, open your terminal/command prompt inside the project folder, and run:
-```bash
+bash
 pip install -r requirements.txt
 💻 How to Run the ProjectMethod 1: Automated Execution (One-Click Setup)If you want the script to automatically handle everything:Windows Users: Simply double-click run.bat or execute it via Command Prompt.Mac/Linux Users: Open your terminal, give execution permission, and run the shell script:Bashchmod +x run.sh
 ./run.sh
@@ -35,7 +35,8 @@ To view the Help Menu (Displays all available arguments and flags):Bashpython sc
 ├── run.sh             # Linux/macOS automation shell script
 └── README.md          # Project documentation (this file)
 
-
+🎯 Conclusion
+This web scraper serves as an efficient, automated data collection tool. By combining programmatic web requests with robust parsing and error-handling mechanisms, it eliminates the need for tedious manual data entry. Whether used for simple data logging, price comparison engines, or scaling up into data analysis workflows, it provides a stable and modular foundation for any web scraping requirements.
 
 
 
